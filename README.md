@@ -4,5 +4,6 @@
 		- ### Forensics
 		- [Riddle Registry](PicoCtf/Gym/Riddle%20Registry/README.md)
 		- [Hidden in plainsight](PicoCtf/Gym/Hidden%20in%20plainsight/README.md)
+		- [Flag in Flame](PicoCtf/Gym/Flag%20in%20Flame/README.md)
 		- ### General Skills
 		- [Log Hunt](PicoCtf/Gym/Log%20Hunt/README.md)
