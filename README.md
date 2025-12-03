@@ -7,3 +7,5 @@
 		- [Flag in Flame](PicoCtf/Gym/Flag%20in%20Flame/README.md)
 		- ### General Skills
 		- [Log Hunt](PicoCtf/Gym/Log%20Hunt/README.md)
+		- ### Web Exploitation
+		- [Crack the Gate 1](PicoCtf/Gym/Crack%20the%20Gate%201/README.md)
