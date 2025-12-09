@@ -5,6 +5,7 @@
 		- [Riddle Registry](PicoCtf/Gym/Riddle%20Registry/README.md)
 		- [Hidden in plainsight](PicoCtf/Gym/Hidden%20in%20plainsight/README.md)
 		- [Flag in Flame](PicoCtf/Gym/Flag%20in%20Flame/README.md)
+		- [Corrupted file](PicoCtf/Gym/Corrupted%20file/README.md)
 		- ### General Skills
 		- [Log Hunt](PicoCtf/Gym/Log%20Hunt/README.md)
 		- ### Web Exploitation
